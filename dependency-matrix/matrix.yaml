@@ -5,3 +5,9 @@ dependencies:
   url: https://github.com/it-beyondit/test_node_import.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: it-beyondit
+  repo: node_import
+  url: https://github.com/it-beyondit/node_import.git
+  version: ""
+  versionURL: ""
