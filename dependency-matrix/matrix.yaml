@@ -11,3 +11,9 @@ dependencies:
   url: https://github.com/it-beyondit/node_import.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: it-beyondit
+  repo: testportnoy
+  url: https://github.com/it-beyondit/testportnoy.git
+  version: ""
+  versionURL: ""
