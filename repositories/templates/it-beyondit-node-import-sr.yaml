@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: it-beyondit
+    provider: github
+    repository: node_import
+  name: it-beyondit-node-import
+spec:
+  description: Imported application for it-beyondit/node_import
+  httpCloneURL: https://github.com/it-beyondit/node_import.git
+  org: it-beyondit
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: node_import
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/it-beyondit/node_import.git
