@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: it-beyondit
+  repo: test_node_import
+  url: https://github.com/it-beyondit/test_node_import.git
+  version: ""
+  versionURL: ""
