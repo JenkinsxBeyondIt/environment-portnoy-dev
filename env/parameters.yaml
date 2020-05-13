@@ -1,0 +1,10 @@
+adminUser:
+  password: local:portnoy/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: jenkinsx@beyondit.it
+  token: local:portnoy/pipelineUser:token
+  username: JenkinsxBeyondIt
+prow:
+  hmacToken: local:portnoy/prow:hmacToken
